@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zutu+x+89cxARa8QWVaF1JmIJBbASRJ0OIXI4Z0zYVaspByA7Fo8qCI8mgu2LoUO7Ot6ZouKSq2f1DD4aJ2MRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nieks\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
