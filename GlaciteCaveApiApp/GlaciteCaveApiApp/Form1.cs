@@ -78,9 +78,9 @@ namespace GlaciteCaveApiApp
 					}
 				}
 
-				hotmLabel.Text = $"HOTM: {selectedMember.mining_core.HotmAndLeftOverExp[0]} + {selectedMember.mining_core.HotmAndLeftOverExp[1]} exp";
-				potmLabel.Text = $"POTM: {selectedMember.mining_core.nodes.special_0}";
-				glacitePowderLabel.Text = $"Glacite Powder: {selectedMember.mining_core.glacitePowderTotal}";
+				hotmLabel.Text = $"HOTM: {selectedMember?.mining_core?.HotmAndLeftOverExp[0] ?? 0} + {selectedMember?.mining_core?.HotmAndLeftOverExp[1] ?? 0} exp";
+				potmLabel.Text = $"POTM: {selectedMember?.mining_core?.nodes.special_0 ?? 0}";
+				glacitePowderLabel.Text = $"Glacite Powder: {selectedMember?.mining_core?.glacitePowderTotal ?? 0}";
 
 				mageLabel.Text = $"Glacite Mage: {selectedMember?.bestiary?.kills?.glacite_mage_155 ?? 0}";
 				bowmanLabel.Text = $"Glacite Bowman: {selectedMember?.bestiary?.kills?.glacite_bowman_165 ?? 0}";

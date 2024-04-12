@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|solutionrelative:glacitecaveapiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|c:\\github\\glacitecaveapiapp\\glacitecaveapiapp\\glacitecaveapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\glacitecaveapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|solutionrelative:glacitecaveapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|c:\\github\\glacitecaveapiapp\\glacitecaveapiapp\\glacitecaveapiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\glacitecaveapiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|solutionrelative:glacitecaveapiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -42,8 +42,7 @@
               "RelativeToolTip": "GlaciteCaveApiApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T10:51:54.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T10:51:54.042Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "GlaciteCaveApiApp\\Form1.cs",
               "ToolTip": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\Form1.cs",
               "RelativeToolTip": "GlaciteCaveApiApp\\Form1.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAewFUAAABKAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAMwEEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T10:43:40.053Z",
               "EditorCaption": ""
@@ -67,8 +66,7 @@
               "ToolTip": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\Form1.cs [Design]",
               "RelativeToolTip": "GlaciteCaveApiApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T10:43:48.092Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-12T10:43:48.092Z"
             }
           ]
         },
