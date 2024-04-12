@@ -46,8 +46,11 @@ namespace GlaciteCaveApiApp
 				foreach (Profile profile in _currentHypixelApiResponseRoot.profiles)
 				{
 					profileComboBox.Items.Add(profile.cute_name);
+					if (profile.selected) 
+					{
+						profileComboBox.SelectedItem = profile.cute_name;
+					}
 				}
-				profileComboBox.SelectedIndex = 0;
 				LoadData();
 				//File.WriteAllText(@"", apiKeyTextBox.Text);
 			}
