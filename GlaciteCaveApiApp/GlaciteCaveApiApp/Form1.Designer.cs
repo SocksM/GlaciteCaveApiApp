@@ -32,10 +32,13 @@
 			usernameTextBox = new TextBox();
 			hotmLabel = new Label();
 			profileComboBox = new ComboBox();
-			loadButton = new Button();
 			apiKeyTextBox = new TextBox();
 			potmLabel = new Label();
 			glacitePowderLabel = new Label();
+			mageLabel = new Label();
+			bowmanLabel = new Label();
+			muttLabel = new Label();
+			caverLabel = new Label();
 			SuspendLayout();
 			// 
 			// lookupButton
@@ -72,16 +75,7 @@
 			profileComboBox.Name = "profileComboBox";
 			profileComboBox.Size = new Size(171, 23);
 			profileComboBox.TabIndex = 6;
-			// 
-			// loadButton
-			// 
-			loadButton.Location = new Point(462, 11);
-			loadButton.Name = "loadButton";
-			loadButton.Size = new Size(75, 23);
-			loadButton.TabIndex = 7;
-			loadButton.Text = "Load";
-			loadButton.UseVisualStyleBackColor = true;
-			loadButton.Click += loadButton_Click;
+			profileComboBox.SelectedIndexChanged += profileComboBox_SelectedIndexChanged;
 			// 
 			// apiKeyTextBox
 			// 
@@ -109,15 +103,54 @@
 			glacitePowderLabel.TabIndex = 10;
 			glacitePowderLabel.Text = "Glacite Powder:";
 			// 
+			// mageLabel
+			// 
+			mageLabel.AutoSize = true;
+			mageLabel.Location = new Point(285, 51);
+			mageLabel.Name = "mageLabel";
+			mageLabel.Size = new Size(79, 15);
+			mageLabel.TabIndex = 11;
+			mageLabel.Text = "Glacite Mage:";
+			// 
+			// bowmanLabel
+			// 
+			bowmanLabel.AutoSize = true;
+			bowmanLabel.Location = new Point(285, 66);
+			bowmanLabel.Name = "bowmanLabel";
+			bowmanLabel.Size = new Size(96, 15);
+			bowmanLabel.TabIndex = 12;
+			bowmanLabel.Text = "Glacite Bowman:";
+			// 
+			// muttLabel
+			// 
+			muttLabel.AutoSize = true;
+			muttLabel.Location = new Point(285, 81);
+			muttLabel.Name = "muttLabel";
+			muttLabel.Size = new Size(75, 15);
+			muttLabel.TabIndex = 13;
+			muttLabel.Text = "Glacite Mutt:";
+			// 
+			// caverLabel
+			// 
+			caverLabel.AutoSize = true;
+			caverLabel.Location = new Point(285, 96);
+			caverLabel.Name = "caverLabel";
+			caverLabel.Size = new Size(79, 15);
+			caverLabel.TabIndex = 14;
+			caverLabel.Text = "Glacite Caver:";
+			// 
 			// Form1
 			// 
 			AutoScaleDimensions = new SizeF(7F, 15F);
 			AutoScaleMode = AutoScaleMode.Font;
 			ClientSize = new Size(851, 160);
+			Controls.Add(caverLabel);
+			Controls.Add(muttLabel);
+			Controls.Add(bowmanLabel);
+			Controls.Add(mageLabel);
 			Controls.Add(glacitePowderLabel);
 			Controls.Add(potmLabel);
 			Controls.Add(apiKeyTextBox);
-			Controls.Add(loadButton);
 			Controls.Add(profileComboBox);
 			Controls.Add(hotmLabel);
 			Controls.Add(usernameTextBox);
@@ -135,9 +168,12 @@
 		private TextBox usernameTextBox;
 		private Label hotmLabel;
 		private ComboBox profileComboBox;
-		private Button loadButton;
 		private TextBox apiKeyTextBox;
 		private Label potmLabel;
 		private Label glacitePowderLabel;
+		private Label mageLabel;
+		private Label bowmanLabel;
+		private Label muttLabel;
+		private Label caverLabel;
 	}
 }

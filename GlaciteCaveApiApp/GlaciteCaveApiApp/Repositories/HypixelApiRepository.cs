@@ -18,9 +18,8 @@ namespace GlaciteCaveApiApp.Repositories
 			this.ApiKey = apiKey;
 		}
 
-		public async Task<HypixelApiResponseRoot> GetCurrentStatsByProfileUuidAsync(string mcUuid)
+		public async Task<HypixelApiResponseRoot> GetCurrentStatsByMcUuidAsync(string mcUuid)
 		{
-			// https://api.hypixel.net/v2/skyblock/profiles?key=429d9617-5f61-48d3-941d-e90e1fc86369&uuid=5e22209be5864a088761aa6bde56a090
 			string apiUrl = $"https://api.hypixel.net/v2/skyblock/profiles?uuid={mcUuid}&key={ApiKey}";
 
 			using (HttpClient client = new HttpClient())

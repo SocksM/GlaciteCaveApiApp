@@ -12,7 +12,7 @@ namespace GlaciteCaveApiApp.Repositories
     {
         private readonly string _baseUrl = "https://api.mojang.com/";
 
-        public async Task<MojangApiPlayer> GetUidByUsername(string username)
+        public async Task<MojangApiPlayer> GetUuidByUsername(string username)
         {
 			string apiUrl = _baseUrl + "users/profiles/minecraft/" + username;
 			using (HttpClient client = new HttpClient())

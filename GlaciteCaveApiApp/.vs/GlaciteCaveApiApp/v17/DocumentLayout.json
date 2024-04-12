@@ -1,25 +1,80 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|c:\\github\\glacitecaveapiapp\\glacitecaveapiapp\\glacitecaveapiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|solutionrelative:glacitecaveapiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|c:\\github\\glacitecaveapiapp\\glacitecaveapiapp\\glacitecaveapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|solutionrelative:glacitecaveapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|c:\\github\\glacitecaveapiapp\\glacitecaveapiapp\\glacitecaveapiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|solutionrelative:glacitecaveapiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|c:\\github\\glacitecaveapiapp\\glacitecaveapiapp\\glacitecaveapiapp\\models\\hypixelapi\\kills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BE3608-9DE9-46B7-B0B8-F3848F481E56}|GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj|solutionrelative:glacitecaveapiapp\\models\\hypixelapi\\kills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 8,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 11,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\Program.cs",
+              "RelativeDocumentMoniker": "GlaciteCaveApiApp\\Program.cs",
+              "ToolTip": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\Program.cs",
+              "RelativeToolTip": "GlaciteCaveApiApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:51:54.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\Form1.cs",
+              "RelativeDocumentMoniker": "GlaciteCaveApiApp\\Form1.cs",
+              "ToolTip": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\Form1.cs",
+              "RelativeToolTip": "GlaciteCaveApiApp\\Form1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAewFUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:43:40.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\Form1.cs",
+              "RelativeDocumentMoniker": "GlaciteCaveApiApp\\Form1.cs",
+              "ToolTip": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\Form1.cs [Design]",
+              "RelativeToolTip": "GlaciteCaveApiApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:43:48.092Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },
         {
-          "DockedWidth": 6,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,6 +83,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kills.cs",
+              "DocumentMoniker": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\Models\\HypixelApi\\Kills.cs",
+              "RelativeDocumentMoniker": "GlaciteCaveApiApp\\Models\\HypixelApi\\Kills.cs",
+              "ToolTip": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\Models\\HypixelApi\\Kills.cs",
+              "RelativeToolTip": "GlaciteCaveApiApp\\Models\\HypixelApi\\Kills.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:44:10.3Z",
+              "EditorCaption": ""
             }
           ]
         },

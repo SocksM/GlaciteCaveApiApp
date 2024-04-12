@@ -1,0 +1,6 @@
+C:\Github\GlaciteCaveApiApp\GlaciteCaveApiApp\GlaciteCaveApiApp\bin\Release\net8.0-windows\publish\GlaciteCaveApiApp.exe
+C:\Github\GlaciteCaveApiApp\GlaciteCaveApiApp\GlaciteCaveApiApp\bin\Release\net8.0-windows\publish\GlaciteCaveApiApp.dll
+C:\Github\GlaciteCaveApiApp\GlaciteCaveApiApp\GlaciteCaveApiApp\bin\Release\net8.0-windows\publish\GlaciteCaveApiApp.deps.json
+C:\Github\GlaciteCaveApiApp\GlaciteCaveApiApp\GlaciteCaveApiApp\bin\Release\net8.0-windows\publish\GlaciteCaveApiApp.runtimeconfig.json
+C:\Github\GlaciteCaveApiApp\GlaciteCaveApiApp\GlaciteCaveApiApp\bin\Release\net8.0-windows\publish\GlaciteCaveApiApp.pdb
+C:\Github\GlaciteCaveApiApp\GlaciteCaveApiApp\GlaciteCaveApiApp\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll
