@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj",
         "projectName": "GlaciteCaveApiApp",
         "projectPath": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp.csproj",
-        "packagesPath": "C:\\Users\\nieks\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\socks\\.nuget\\packages\\",
         "outputPath": "C:\\Github\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\GlaciteCaveApiApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nieks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\socks\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

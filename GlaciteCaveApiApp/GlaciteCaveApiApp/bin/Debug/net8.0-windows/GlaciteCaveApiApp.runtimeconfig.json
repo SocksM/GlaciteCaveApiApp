@@ -11,13 +11,8 @@
         "version": "8.0.0"
       }
     ],
-    "additionalProbingPaths": [
-      "C:\\Users\\socks\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\socks\\.nuget\\packages"
-    ],
     "configProperties": {
-      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
-      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true
     }
   }
 }

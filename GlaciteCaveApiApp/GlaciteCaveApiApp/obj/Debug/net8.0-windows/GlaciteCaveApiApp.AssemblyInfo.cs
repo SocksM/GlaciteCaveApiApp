@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GlaciteCaveApiApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a32d94064203686d9c3beba7c3671c8772ba3404")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47518a2a908be9c0397db60876a3375d9619a781")]
 [assembly: System.Reflection.AssemblyProductAttribute("GlaciteCaveApiApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GlaciteCaveApiApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
